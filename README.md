@@ -22,4 +22,10 @@ The aim of this project is to display the number of visitors who are currently p
 
 Link: https://www.electronicshub.org/arduino-real-time-clock-tutorial/
 
-This rpoject implements a real time clock (RTC) by interfacing an RTC IC onto an Arduino. Here, the RTC IC used is DS1307, which has some really cool features. It has information about the complete date and time (i.e.) hours, minutes, seconds, year, month, date and day of the week. It consumes really really low power as it draws only 500nA when connected to a battery. It is connected to an Arduino and the Arduino is connected to an LCD display, which displays the complete date and time. This is done by using the libraries LiquidCrystal.h (for writing onto the LED) and RTClib.h (for getting information from the RTC IC). 
+This project implements a real time clock (RTC) by interfacing an RTC IC onto an Arduino. Here, the RTC IC used is DS1307, which has some really cool features. It has information about the complete date and time (i.e.) hours, minutes, seconds, year, month, date and day of the week. It consumes really really low power as it draws only 500nA when connected to a battery. It is connected to an Arduino and the Arduino is connected to an LCD display, which displays the complete date and time. This is done by using the libraries LiquidCrystal.h (for writing onto the LED) and RTClib.h (for getting information from the RTC IC).
+
+## 5. RGB LED MATRIX:
+
+Link: https://www.electronicshub.org/diy-rgb-led-matrix/
+
+This project aims to create an RGB LED matrix which is to be controlled by a mobile app designed specifically for this purpose. This LED matrix consists of 8 rows and 6 columns. Each row contains red, green and blue LEDs which are cut from an LED strip. Each set of R,G and B LEDs are cut and pasted on a panel. Holes are drilled through the metal contacts in order to make connections. Further, an IC 74HC595N is used, which is actually an 8-bit serial-in, serial or parallel-out shift register, which gets serial input from the Arduino and converts it to parallel output which can be fed to the LEDs. Transistors are used, one for each colour of LEDs to drive them. The circuit is then done on a PCB. Entire control of the LED matrix is done by the app (MIT App inventor 2).
