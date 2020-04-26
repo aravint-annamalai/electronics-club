@@ -35,3 +35,10 @@ This project aims to create an RGB LED matrix which is to be controlled by a mob
 Link: https://www.hackster.io/needlab/face-masks-disinfection-device-needlab-3ed2f5
 
 Devices such as this are the need of the hour due to the ongoing pandemic. Protective equpments such as masks won't be available in penty all the time and hence, there is a need for disinfecting them so that it can be reused again and it minimises the risk of the user getting infected. In this device, disinfection is done using UV radiations coming from a 11W UV-C source. In order to generate higher temperatures, the UV light generated is reflected by an aluminium foil and since it is a closed surface, the light gets trapped. The face mask is placed on a wire rack designed within the box. Arduino is used as an interface for the temperature sensor so that the temperature inside the enclosure can be displayed. Also there is a provision that if the temperature goes too low or too high, then an alarm rings.
+
+## 7. ESP-01 BASED SONOFF SWITCH CONTROLLER:
+
+Link: https://www.hackster.io/rizwan946/esp-01-based-sonoff-wireless-smart-switch-457046
+
+A sonoff switch is a WiFi based switch controller which help us to remotely control any electrical appliance from anywhere. In this project, a WiFi module called ESP-01 is interfaced with Arduino. It is coded using the WIFiManager library in Arduino.
+
