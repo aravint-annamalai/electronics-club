@@ -47,3 +47,9 @@ A sonoff switch is a WiFi based switch controller which help us to remotely cont
 Link: https://www.hackster.io/ashshaks/bluetooth-control-robotic-car-0d9444
 
 In this project, a car which is controlled by bluetooth is designed using HC-05 bluetooth module interfaced on an Arduino. There is a specific app required to be downloaded in the Android phone and this is used as a transmitting device. The bluetooth module placed in the car is the receiver. The app contains controls for the car to move in all the four directions.
+
+## 9. CONTACTLESS HAND WASH TIMER:
+
+Link: https://www.hackster.io/akshayjoseph666/covid-19-touchless-hand-wash-timer-e2ea56
+
+This project is also the need of hte hour due to the ongoing COVID-19 pandemic as washing hands for a minimum of 20 secs is really necessary to prevent the spread of the virus. But how to ensure that the time is maintained? Well, use a servo motor which takes 20 seconds to turn by 180 degrees and stop the flow of water when the motor has turned by 180 degrees. An Arduino is used to control the motion of the motor. Distance sensor is use to detect the presence of hand and if the hand is present, then the motor begins to rotate as mentioned before.
