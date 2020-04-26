@@ -42,3 +42,8 @@ Link: https://www.hackster.io/rizwan946/esp-01-based-sonoff-wireless-smart-switc
 
 A sonoff switch is a WiFi based switch controller which help us to remotely control any electrical appliance from anywhere. In this project, a WiFi module called ESP-01 is interfaced with Arduino. It is coded using the WIFiManager library in Arduino.
 
+## 8. BLUETOOTH CONTROLLED ROBOTIC CAR:
+
+Link: https://www.hackster.io/ashshaks/bluetooth-control-robotic-car-0d9444
+
+In this project, a car which is controlled by bluetooth is designed using HC-05 bluetooth module interfaced on an Arduino. There is a specific app required to be downloaded in the Android phone and this is used as a transmitting device. The bluetooth module placed in the car is the receiver. The app contains controls for the car to move in all the four directions.
