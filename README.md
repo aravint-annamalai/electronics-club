@@ -53,3 +53,9 @@ In this project, a car which is controlled by bluetooth is designed using HC-05 
 Link: https://www.hackster.io/akshayjoseph666/covid-19-touchless-hand-wash-timer-e2ea56
 
 This project is also the need of hte hour due to the ongoing COVID-19 pandemic as washing hands for a minimum of 20 secs is really necessary to prevent the spread of the virus. But how to ensure that the time is maintained? Well, use a servo motor which takes 20 seconds to turn by 180 degrees and stop the flow of water when the motor has turned by 180 degrees. An Arduino is used to control the motion of the motor. Distance sensor is use to detect the presence of hand and if the hand is present, then the motor begins to rotate as mentioned before.
+
+## 10. ARDUINO BASED INTEGRATED SECURITY SYSTEM:
+
+Link: https://www.projectsof8051.com/iot-based-home-security-system-using-arduino/
+
+This is a security system which is to be installed at home in order to prevent (or at least warn us about) various mishaps like fire, LPG gas leakage and theft. The first two are prevented by specific sensors like LPG snesors and smoke sensors. Theft is prevented by using a numeric keypad at the entrance. The door is modelled as a DC motor in this project. If there is any mishap which is about to happen, a buzzer will go off. The entire system is monitored by an Arduino using ESP8266 WiFi module.
