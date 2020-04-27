@@ -65,3 +65,11 @@ This is a security system which is to be installed at home in order to prevent (
 Link: https://www.projectsof8051.com/iot-based-car-parking-system/
 
 In this project, a miniature car parking system consisting of 4 parking slots is to be monitored. IR sensors are fitted at the entry, exit and at each of the 4 slots. When a car enters, the corresponding IR sensor detects it and opens the entrance gate by moving the designated DC motor. A similar thing happens when a car is planning to exit. For each parking slot, the correspondng IR sensor detects the presence of car in that slot and displays the information on the LCD display present at the entrance, whether the particular slot is empty or full. This information is transmitted to the LED via the ESP8266 module. 
+
+## 12. BLUETOOTH CONTROLLED ROBOT:
+
+Link: https://www.projectsof8051.com/bluetooth-controlled-robot-using-android-mobile/
+
+In this project, a robot is controlled using a mobile app which connects with the robot via Bluetooth. The control is such that there are keypads from 1 to 9 in the app, and by pressing different keys, the robot moves in the corresponding sirection (2-forward, 8-backward,...) This is controlled using an 89s51 microcontroller programmed using Assembly language.
+
+## 13. 
