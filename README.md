@@ -59,3 +59,9 @@ This project is also the need of hte hour due to the ongoing COVID-19 pandemic a
 Link: https://www.projectsof8051.com/iot-based-home-security-system-using-arduino/
 
 This is a security system which is to be installed at home in order to prevent (or at least warn us about) various mishaps like fire, LPG gas leakage and theft. The first two are prevented by specific sensors like LPG snesors and smoke sensors. Theft is prevented by using a numeric keypad at the entrance. The door is modelled as a DC motor in this project. If there is any mishap which is about to happen, a buzzer will go off. The entire system is monitored by an Arduino using ESP8266 WiFi module.
+
+## 11. IOT BASED CAR PARKING SYSTEM:
+
+Link: https://www.projectsof8051.com/iot-based-car-parking-system/
+
+In this project, a miniature car parking system consisting of 4 parking slots is to be monitored. IR sensors are fitted at the entry, exit and at each of the 4 slots. When a car enters, the corresponding IR sensor detects it and opens the entrance gate by moving the designated DC motor. A similar thing happens when a car is planning to exit. For each parking slot, the correspondng IR sensor detects the presence of car in that slot and displays the information on the LCD display present at the entrance, whether the particular slot is empty or full. This information is transmitted to the LED via the ESP8266 module. 
