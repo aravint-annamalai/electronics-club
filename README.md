@@ -83,3 +83,9 @@ This is a Greenhouse controlled by Arduino which has, among many other features,
 Link: https://www.instructables.com/id/Smart-3D-Printer-Filament-Counter/
 
 Here, the length of the filament used to print in a 3D printer is computed using a rotary encoder. The filament is held against a pulley to convert the linear motion of the filament into rotational motion to be detected by the rotary encoder. The project also does more interesting stuff as well, such as sending notifications to the phone about the time of start of printing and stopping. In order to push notifs to phone, an app called Prowl IOS app is used.
+
+## 15. ARDUINO DISTANCE DETECTOR:
+
+Link: https://www.instructables.com/id/Arduino-Distance-Detector-with-a-Buzzer-and-LEDs/
+
+This is a distance detector equipped with buzzer and LEDs such that when the nearest object sensed by the ultrasonic sensor(HC-SR04) comes closer and closer, more LEDs will light up and the sound coming from the buzzer will be louder. There are 2 LEDs each of red, yellow and green attached to different pins of Arduino. And there is a buzzer attached to it as well. The important learning here is that wherever possible, use a resistor for LEDs as well as the buzzer. 
