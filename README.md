@@ -92,6 +92,6 @@ This is a distance detector equipped with buzzer and LEDs such that when the nea
 
 ## 16. CONTROLLING A ROBOT USING OUR MIND:
 
-Link: hackster.io/Jose_Romani/moving-a-robot-with-the-help-of-your-mind-6b399d
+Link: https://hackster.io/Jose_Romani/moving-a-robot-with-the-help-of-your-mind-6b399d
 
 This is a project in which a robotic car can be controlled using the attention of the mind. This uses the EEG of the brain in order to capture it and sends the information to the car via a Bluetooth module. The speed of the car increases as the attention increases. This way of controlling the car using our brain sounds really exciting for me. 
