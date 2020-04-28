@@ -88,4 +88,10 @@ Here, the length of the filament used to print in a 3D printer is computed using
 
 Link: https://www.instructables.com/id/Arduino-Distance-Detector-with-a-Buzzer-and-LEDs/
 
-This is a distance detector equipped with buzzer and LEDs such that when the nearest object sensed by the ultrasonic sensor(HC-SR04) comes closer and closer, more LEDs will light up and the sound coming from the buzzer will be louder. There are 2 LEDs each of red, yellow and green attached to different pins of Arduino. And there is a buzzer attached to it as well. The important learning here is that wherever possible, use a resistor for LEDs as well as the buzzer. 
+This is a distance detector equipped with buzzer and LEDs such that when the nearest object sensed by the ultrasonic sensor(HC-SR04) comes closer and closer, more LEDs will light up and the sound coming from the buzzer will be louder. There are 2 LEDs each of red, yellow and green attached to different pins of Arduino. And there is a buzzer attached to it as well. The important learning here is that wherever possible, use a resistor for LEDs as well as the buzzer.
+
+## 16. CONTROLLING A ROBOT USING OUR MIND:
+
+Link: hackster.io/Jose_Romani/moving-a-robot-with-the-help-of-your-mind-6b399d
+
+This is a project in which a robotic car can be controlled using the attention of the mind. This uses the EEG of the brain in order to capture it and sends the information to the car via a Bluetooth module. The speed of the car increases as the attention increases. This way of controlling the car using our brain sounds really exciting for me. 
