@@ -78,4 +78,8 @@ Link: https://www.instructables.com/id/Awesome-Greenhouse-With-Automatic-Waterin
 
 This is a Greenhouse controlled by Arduino which has, among many other features, a DGT11 sensor for meauring air temperature and humidity. It also has an internet control to send an e-mail when teh tank is empty. The project uses ENC28J60 internet module simply because it was way cheaper, but it didn't work out well. I personally had some terrible experiences with cheaper modules as well. It uses Blynk to code, rather than Arduino IDE.
 
+## 14. 3D PRINTER FILAMENT COUNTING:
 
+Link: https://www.instructables.com/id/Smart-3D-Printer-Filament-Counter/
+
+Here, the length of the filament used to print in a 3D printer is computed using a rotary encoder. The filament is held against a pulley to convert the linear motion of the filament into rotational motion to be detected by the rotary encoder. The project also does more interesting stuff as well, such as sending notifications to the phone about the time of start of printing and stopping. In order to push notifs to phone, an app called Prowl IOS app is used.
