@@ -100,4 +100,4 @@ This is a project in which a robotic car can be controlled using the attention o
 
 Link: https://www.hackster.io/niyazthalappil/covid-19-real-time-data-monitor-7b43e5
 
-The live data for COVID-19 (total no. of cases. no. of deaths, and no. of people recovered) are tracked in this project. A small portable device called M5StickC is used, which uses ESP32, and thus has in-built WiFi connection. Using this Wi-Fi, data is collected from the relevant website and is displayed on the Stick. This also has an in-built battery level tracker, as it has an in-built battery.
+The live data for COVID-19 (total no. of cases. no. of deaths, and no. of people recovered) are tracked in this project. A small portable device called M5StickC is used, which uses ESP32, and thus has in-built WiFi connection. Using this Wi-Fi, data is collected from the relevant website and is displayed on the Stick. An in-built battery level tracker is also added as a feature, as it has an in-built battery.
