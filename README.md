@@ -107,3 +107,16 @@ The live data for COVID-19 (total no. of cases. no. of deaths, and no. of people
 Link: https://www.hackster.io/electronicprojects/arduino-fingerprint-security-lock-c4e5b3
 
 This is a fingerprint sensor designed for security purposes. This circuit is designed so that a door lock is opened when the correct fingerprint is detected. This uses the Adafruit r307 fingerprint sensor.
+
+## 19. BATTERIES FROM PENNIES:
+
+Link: https://www.instructables.com/id/How-to-Turn-Spare-Pocket-Change-into-DIY-Batteries/
+
+In this project, the Zinc which is the major component for many pennies, is modified appropriately such that all the other materials are removed (by using sandpaper, vinegar etc.) and what remains is pure Zinc. Each penny has a voltage of about 0.6V and appropriate number of pennies can be stacked up as per our voltage requirements.
+
+## 20. DC MOTOR CONTROLLER:
+
+Link: https://www.instructables.com/id/Easy-DC-Motor-Controller/
+
+This is a circuit which controls the direction of DC motor using a microcontroller with BJT and n-MOS transistors as switches controlling the direction of rotation. There are diodes connected so that high surges in voltage are prevented.
+
