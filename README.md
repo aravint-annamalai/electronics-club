@@ -94,4 +94,10 @@ This is a distance detector equipped with buzzer and LEDs such that when the nea
 
 Link: https://hackster.io/Jose_Romani/moving-a-robot-with-the-help-of-your-mind-6b399d
 
-This is a project in which a robotic car can be controlled using the attention of the mind. This uses the EEG of the brain in order to capture it and sends the information to the car via a Bluetooth module. The speed of the car increases as the attention increases. This way of controlling the car using our brain sounds really exciting for me. 
+This is a project in which a robotic car can be controlled using the attention of the mind. This uses the EEG of the brain in order to capture it and sends the information to the car via a Bluetooth module. The speed of the car increases as the attention increases. This way of controlling the car using our brain sounds really exciting for me.
+
+## 17. WIFI-BASED REAL TIME COVID-19 TRACKER:
+
+Link: https://www.hackster.io/niyazthalappil/covid-19-real-time-data-monitor-7b43e5
+
+The live data for COVID-19 (total no. of cases. no. of deaths, and no. of people recovered) are tracked in this project. A small portable device called M5StickC is used, which uses ESP32, and thus has in-built WiFi connection. Using this Wi-Fi, data is collected from the relevant website and is displayed on the Stick. This also has an in-built battery level tracker, as it has an in-built battery.
