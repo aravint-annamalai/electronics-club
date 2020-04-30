@@ -120,3 +120,8 @@ Link: https://www.instructables.com/id/Easy-DC-Motor-Controller/
 
 This is a circuit which controls the direction of DC motor using a microcontroller with BJT and n-MOS transistors as switches controlling the direction of rotation. There are diodes connected so that high surges in voltage are prevented.
 
+## 21. PORTABLE SOLAR CHARGER:
+
+Link: https://www.instructables.com/id/portable-Solar-Charged-USB-charger/
+
+Here, a portable solar charged USB charger is made, with the main idea of being able to charge any device during long trips, as sunlight is available, but we may not have access to electricity. A miniature solar cell acts as a power source and it is converted to a required voltage using DC-DC converter. A voltage regulator is there so that the voltage required is just the right amount.It is then available for connection to any device after going through a couple of resistor dividers.
