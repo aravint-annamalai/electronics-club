@@ -125,3 +125,9 @@ This is a circuit which controls the direction of DC motor using a microcontroll
 Link: https://www.instructables.com/id/portable-Solar-Charged-USB-charger/
 
 Here, a portable solar charged USB charger is made, with the main idea of being able to charge any device during long trips, as sunlight is available, but we may not have access to electricity. A miniature solar cell acts as a power source and it is converted to a required voltage using DC-DC converter. A voltage regulator is there so that the voltage required is just the right amount.It is then available for connection to any device after going through a couple of resistor dividers.
+
+## 22. ALCOHOL DETECTOR AND ENGINE LOCKING SYSTEM:
+
+Link: https://www.projectsof8051.com/gps-tracker-and-alcohol-detector-with-engine-locking-system-using-gsm/
+
+This project deals with the contemporary problem of drunken driving. Using an alcohol sensor, whether the driver is drunk or not is detected. If the alcohol level is above a particular value, a buzzer goes off and it will be impossible to start the engine. There is an LCD which displays the alcohol content. Using GPS and GSM, the exact position of the vehicle will be sent to the owner of the vehicle for further actions to be taken.
