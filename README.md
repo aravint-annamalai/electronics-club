@@ -143,3 +143,9 @@ In this project, a weight sensor is interfaced with a 8051 microcontroller. This
 Link: https://www.projectsof8051.com/voice-controlled-robot/
 
 In this project, the robot is controlled by an Android mobile phone that connects to the Bluetooth decoder attached to the robot. The robot is controlled by voice which is decoded by a mobile app and the motor is controlled by a bluetooth signal. Bluetooth decoder is always connected to Robot. This robotic vehicle operated on 7 commands like forward, reverse, left, right, stop, left U-turn, right U-turn. 
+
+## 25. RFID BASED ATTENDANCE SYSTEM:
+
+Link: https://www.projectsof8051.com/rfid-based-attendance-system-with-sms-indication-using-gsm-modem/
+
+Here, every person, whether a student (if the attendance is taken at a school or college) or an employee (in an office) is given a RFID card and RFID reader is placed at designated places. A buzzer will be turned on when an invalid card is shown to the RFID reader. A GSM modem is used to send a SMS whether a particular person is present or not. 
