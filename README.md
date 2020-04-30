@@ -52,6 +52,8 @@ Link: https://www.hackster.io/ashshaks/bluetooth-control-robotic-car-0d9444
 
 In this project, a car which is controlled by bluetooth is designed using HC-05 bluetooth module interfaced on an Arduino. There is a specific app required to be downloaded in the Android phone and this is used as a transmitting device. The bluetooth module placed in the car is the receiver. The app contains controls for the car to move in all the four directions.
 
+![](Project8.gif)
+
 ## 9. CONTACTLESS HAND WASH TIMER:
 
 Link: https://www.hackster.io/akshayjoseph666/covid-19-touchless-hand-wash-timer-e2ea56
