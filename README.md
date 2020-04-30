@@ -18,6 +18,8 @@ Link: https://www.electronicshub.org/bidirectional-visitor-counter-using-8051-mi
 
 The aim of this project is to display the number of visitors who are currently present in a room by sensing the entry and exit of people at the entrance. It is displayed on an LCD display which is controlled by an 8051 microcontroller. There are two IR sensors which are controlled by the microcontroller and they sense movement of people entering or exiting the room. How the sensors do this can be easily explained. Let us call the sensors, sensor 1 and sensor 2 such that sensor 2 is inside the room and sensor 1 is near the entrance. When there is some movement sensed by sensor 1 and then at sensor 2, it means that the person has entered the room and the count in the LCD goes up by 1. Rather, if there is some movement sensed by sensor 2 and then at sensor 1, then the person has left the room and hence the count in the LCD decreases by 1.
 
+![](Project2.png)
+
 ## 4. REAL TIME CLOCK (RTC) USING ARDUINO:
 
 Link: https://www.electronicshub.org/arduino-real-time-clock-tutorial/
