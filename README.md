@@ -90,6 +90,8 @@ Link: https://www.instructables.com/id/Smart-3D-Printer-Filament-Counter/
 
 Here, the length of the filament used to print in a 3D printer is computed using a rotary encoder. The filament is held against a pulley to convert the linear motion of the filament into rotational motion to be detected by the rotary encoder. The project also does more interesting stuff as well, such as sending notifications to the phone about the time of start of printing and stopping. In order to push notifs to phone, an app called Prowl IOS app is used.
 
+![](Project14.gif)
+
 ## 15. ARDUINO DISTANCE DETECTOR:
 
 Link: https://www.instructables.com/id/Arduino-Distance-Detector-with-a-Buzzer-and-LEDs/
