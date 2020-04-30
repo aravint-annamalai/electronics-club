@@ -98,6 +98,8 @@ Link: https://www.instructables.com/id/Arduino-Distance-Detector-with-a-Buzzer-a
 
 This is a distance detector equipped with buzzer and LEDs such that when the nearest object sensed by the ultrasonic sensor(HC-SR04) comes closer and closer, more LEDs will light up and the sound coming from the buzzer will be louder. There are 2 LEDs each of red, yellow and green attached to different pins of Arduino. And there is a buzzer attached to it as well. The important learning here is that wherever possible, use a resistor for LEDs as well as the buzzer.
 
+![](Project15.png)
+
 ## 16. CONTROLLING A ROBOT USING OUR MIND:
 
 Link: https://hackster.io/Jose_Romani/moving-a-robot-with-the-help-of-your-mind-6b399d
