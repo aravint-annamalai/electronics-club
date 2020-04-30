@@ -131,3 +131,9 @@ Here, a portable solar charged USB charger is made, with the main idea of being 
 Link: https://www.projectsof8051.com/gps-tracker-and-alcohol-detector-with-engine-locking-system-using-gsm/
 
 This project deals with the contemporary problem of drunken driving. Using an alcohol sensor, whether the driver is drunk or not is detected. If the alcohol level is above a particular value, a buzzer goes off and it will be impossible to start the engine. There is an LCD which displays the alcohol content. Using GPS and GSM, the exact position of the vehicle will be sent to the owner of the vehicle for further actions to be taken.
+
+## 23. STOCK EMPTY OR FULL DETECTOR:
+
+Link: https://www.projectsof8051.com/gsm-based-stock-empty-or-full-indicator-using-weight-sensor/
+
+In this project, a weight sensor is interfaced with a 8051 microcontroller. This detects whether the stock is empty or full using a weight sensor. A LED display is used to display the weight and whether the weight is accpetable or not. If the weight falls out of range, then a GSM module is used to send a message to a phone.
