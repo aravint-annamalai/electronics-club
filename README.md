@@ -40,7 +40,7 @@ Link: https://www.hackster.io/needlab/face-masks-disinfection-device-needlab-3ed
 
 Devices such as this are the need of the hour due to the ongoing pandemic. Protective equpments such as masks won't be available in penty all the time and hence, there is a need for disinfecting them so that it can be reused again and it minimises the risk of the user getting infected. In this device, disinfection is done using UV radiations coming from a 11W UV-C source. In order to generate higher temperatures, the UV light generated is reflected by an aluminium foil and since it is a closed surface, the light gets trapped. The face mask is placed on a wire rack designed within the box. Arduino is used as an interface for the temperature sensor so that the temperature inside the enclosure can be displayed. Also there is a provision that if the temperature goes too low or too high, then an alarm rings.
 
-![](Mini-Task%201%20Images/Project8.png)
+![](Mini-Task%201%20Images/Project6.png)
 
 ## 7. ESP-01 BASED SONOFF SWITCH CONTROLLER:
 
