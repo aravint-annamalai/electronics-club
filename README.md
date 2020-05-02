@@ -40,7 +40,7 @@ Link: https://www.hackster.io/needlab/face-masks-disinfection-device-needlab-3ed
 
 Devices such as this are the need of the hour due to the ongoing pandemic. Protective equpments such as masks won't be available in penty all the time and hence, there is a need for disinfecting them so that it can be reused again and it minimises the risk of the user getting infected. In this device, disinfection is done using UV radiations coming from a 11W UV-C source. In order to generate higher temperatures, the UV light generated is reflected by an aluminium foil and since it is a closed surface, the light gets trapped. The face mask is placed on a wire rack designed within the box. Arduino is used as an interface for the temperature sensor so that the temperature inside the enclosure can be displayed. Also there is a provision that if the temperature goes too low or too high, then an alarm rings.
 
-![](Mini-Task%201%20ImagesProject8.png)
+![](Mini-Task%201%20Images/Project8.png)
 
 ## 7. ESP-01 BASED SONOFF SWITCH CONTROLLER:
 
@@ -54,7 +54,7 @@ Link: https://www.hackster.io/ashshaks/bluetooth-control-robotic-car-0d9444
 
 In this project, a car which is controlled by bluetooth is designed using HC-05 bluetooth module interfaced on an Arduino. There is a specific app required to be downloaded in the Android phone and this is used as a transmitting device. The bluetooth module placed in the car is the receiver. The app contains controls for the car to move in all the four directions.
 
-![](Project8.gif)
+![](Mini-Task%201%20Images/Project8.gif)
 
 ## 9. CONTACTLESS HAND WASH TIMER:
 
@@ -92,7 +92,7 @@ Link: https://www.instructables.com/id/Smart-3D-Printer-Filament-Counter/
 
 Here, the length of the filament used to print in a 3D printer is computed using a rotary encoder. The filament is held against a pulley to convert the linear motion of the filament into rotational motion to be detected by the rotary encoder. The project also does more interesting stuff as well, such as sending notifications to the phone about the time of start of printing and stopping. In order to push notifs to phone, an app called Prowl IOS app is used.
 
-![](Project14.gif)
+![](Mini-Task%201%20Images/Project14.gif)
 
 ## 15. ARDUINO DISTANCE DETECTOR:
 
@@ -100,7 +100,7 @@ Link: https://www.instructables.com/id/Arduino-Distance-Detector-with-a-Buzzer-a
 
 This is a distance detector equipped with buzzer and LEDs such that when the nearest object sensed by the ultrasonic sensor(HC-SR04) comes closer and closer, more LEDs will light up and the sound coming from the buzzer will be louder. There are 2 LEDs each of red, yellow and green attached to different pins of Arduino. And there is a buzzer attached to it as well. The important learning here is that wherever possible, use a resistor for LEDs as well as the buzzer.
 
-![](Project15.png)
+![](Mini-Task%201%20Images/Project15.png)
 
 ## 16. CONTROLLING A ROBOT USING OUR MIND:
 
@@ -120,7 +120,7 @@ Link: https://www.hackster.io/electronicprojects/arduino-fingerprint-security-lo
 
 This is a fingerprint sensor designed for security purposes. This circuit is designed so that a door lock is opened when the correct fingerprint is detected. This uses the Adafruit r307 fingerprint sensor.
 
-![](Project18.gif)
+![](Mini-Task%201%20Images/Project18.gif)
 
 ## 19. BATTERIES FROM PENNIES:
 
@@ -134,7 +134,7 @@ Link: https://www.instructables.com/id/Easy-DC-Motor-Controller/
 
 This is a circuit which controls the direction of DC motor using a microcontroller with BJT and n-MOS transistors as switches controlling the direction of rotation. There are diodes connected so that high surges in voltage are prevented.
 
-![](Project20.png)
+![](Mini-Task%201%20Images/Project20.png)
 
 ## 21. PORTABLE SOLAR CHARGER:
 
